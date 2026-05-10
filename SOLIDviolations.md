@@ -55,7 +55,7 @@ The virtual/protected pattern was removed entirely. The class is no longer desig
 
 
 
-Violation 5 
+Violation 5:
 
 What principle it violates: Interface Segregation
 
