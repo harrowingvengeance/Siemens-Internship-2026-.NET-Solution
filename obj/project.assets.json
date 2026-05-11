@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\promp\\Downloads\\Siemens_Internship2026_GradeBook_FINAL (3)\\solution\\Siemens.Internship2026.GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\promp\\Documents\\siemens\\solution\\Siemens.Internship2026.GradeBook.csproj",
       "projectName": "Siemens.Internship2026.GradeBook",
-      "projectPath": "C:\\Users\\promp\\Downloads\\Siemens_Internship2026_GradeBook_FINAL (3)\\solution\\Siemens.Internship2026.GradeBook.csproj",
+      "projectPath": "C:\\Users\\promp\\Documents\\siemens\\solution\\Siemens.Internship2026.GradeBook.csproj",
       "packagesPath": "C:\\Users\\promp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\promp\\Downloads\\Siemens_Internship2026_GradeBook_FINAL (3)\\solution\\obj\\",
+      "outputPath": "C:\\Users\\promp\\Documents\\siemens\\solution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\promp\\AppData\\Roaming\\NuGet\\NuGet.Config",

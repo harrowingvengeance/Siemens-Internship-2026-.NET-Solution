@@ -25,7 +25,7 @@ public class ItemService : IItemService
     }
 
     
-    // returns the given N active grades that are equal to or above 5 using nice LINQ methods
+    // returns the given N active grades that are equal to or above 5 using LINQ methods (where and take)
     public async Task<IEnumerable<Item>> GetFirstNPassingActiveAsync(int n)
     {
         var items = await _repository.GetAllAsync();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siemens.Internship2026.GradeBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0f4774dd59e0a092b88de641ad40060b5e3e66c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siemens.Internship2026.GradeBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siemens.Internship2026.GradeBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

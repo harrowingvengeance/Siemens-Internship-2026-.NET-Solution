@@ -8,7 +8,7 @@ namespace Siemens.Internship2026.GradeBook.Repositories;
 public class ItemRepository : IItemReader
 {
     private const string ExternalEndpoint =
-        "https://gist.githubusercontent.com/ArdeleanTudor/8ea407832cd9794960e0e6bbd1319f6e/raw/gistfile1.txt";
+        "https://gist.githubusercontent.com/ArdeleanTudor/8ea407832cd9794960e0e6bbd1319f6e/raw/145b121103dd1cee3737a681c487f7295ac82e6b/gistfile1.txt";
 
     private readonly HttpClient _httpClient;
 
